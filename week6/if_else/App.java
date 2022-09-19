@@ -39,8 +39,8 @@ public class App {
     }
 
     static void rideJeep() {
-        System.out.println("Ride bus along Mercury Drug Store");
-        System.out.println("Exit bus at Guadalupe");
+        System.out.println("Ride jeep along Mercury Drug Store");
+        System.out.println("Exit jeep at Guadalupe");
     }
 
     static void rideMRT() {
