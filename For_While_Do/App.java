@@ -9,21 +9,20 @@ public class App {
         }
         
     // DO WHILE
-    int nickname = 5;
+    int surname = 5;
     
     do {
-        System.out.println("Journ");
-        nickname--;
-        } while (nickname != 0);
+        System.out.println("Gamas");
+        surname--;
+        } while (surname != 0);
         
     // WHILE LOOP
-    int surname = 5;
+    int nickname = 5;
 
-        while (surname != 0) {
-            System.out.println("Gamas");
-            surname--;
+        while (nickname != 0) {
+            System.out.println("Journ");
+            nickname--;
         }
     }
 }
-
 
